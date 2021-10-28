@@ -6,3 +6,4 @@ Carrots
 Bananas
 Tomatoes
 Ginger
+Cereal
